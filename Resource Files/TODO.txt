@@ -1,0 +1,9 @@
+initialize ocean (fill with spaces) -- DONE
+displayOcean -- DONE
+Implement user input for coordinates -- DONE
+Update Ocean (Implement injective array mappings) -- DONE
+place ships (manually) -- DONE
+
+
+
+With a while (true); loop, and an exit condition, make sure your ships have no overlapping coordinates in placeShip.cpp -- DONE?
